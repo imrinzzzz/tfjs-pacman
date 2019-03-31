@@ -35,7 +35,7 @@ For Windows (Legacy Docker)
 4. install TensorFlow.js
 ```
 cd /root/tfjs-pacman
-cat index.js | grep dense_3
+cat index.js | grep dense_3   # only for windows legacy
 yarn add @tensorflow/tfjs
 yarn add @tensorflow/tfjs-node
 yarn
